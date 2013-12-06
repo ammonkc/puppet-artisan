@@ -1,0 +1,12 @@
+{
+  "description": "Module for Laravel 4 Artisan commands",
+  "summary": "Puppet module for Laravel 4 artisan",
+  "author": "ammonkc",
+  "source": "git://github.com/ammonkc/puppet-laravel.git",
+  "project_page": "https://github.com/ammonkc/puppet-laravel",
+  "name": "ammonkc-laravel",
+  "checksums": {},
+  "dependencies": [],
+  "license": "Apache 2.0",
+  "version": "0.0.1"
+}
