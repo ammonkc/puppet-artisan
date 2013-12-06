@@ -1,4 +1,4 @@
-ammonkc-laravel
+ammonkc-artisan
 
 This is the Laravel 4 module.
 
